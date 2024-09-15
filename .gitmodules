@@ -1,3 +1,7 @@
 [submodule "themes/hugo-theme-cactus-plus"]
 	path = themes/hugo-theme-cactus-plus
 	url = https://github.com/nodejh/hugo-theme-cactus-plus.git
+
+[submodule "themes/cactus"]
+	path = themes/cactu
+	url = https://github.com/monkeyWzr/hugo-theme-cactus.git
