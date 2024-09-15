@@ -1,4 +1,4 @@
 baseURL = 'germanflores.com'
 languageCode = 'en-us'
 title = 'german flores'
-theme = 'hugo-theme-cactus-plus'
+theme = 'cactus'
